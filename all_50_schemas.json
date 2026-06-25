@@ -1,0 +1,3879 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "The French Laundry",
+    "image": "https://top50restaurantsincalifornia.online/images/french-laundry.jpg",
+    "description": "The French Laundry occupies a historic stone building constructed around 1900 that once served as a French steam laundry. Chef Thomas Keller acquired the property in 1994 and transformed it into one of America's most revered dining destinations. The restaurant operates on a tasting-menu format only, typically featuring nine to twelve courses that showcase both timeless French methods and the extraordinary produce of Napa Valley and beyond.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6640 Washington Street",
+      "addressLocality": "Yountville",
+      "addressRegion": "CA",
+      "postalCode": "94599",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-944-2380",
+    "url": "https://www.frenchlaundry.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "French",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 2847,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Few restaurants anywhere have maintained such consistent three-star performance over nearly two decades. Keller is the only American-born chef to hold multiple three-Michelin-star restaurants simultaneously. The kitchen has served as an incubator for countless influential chefs."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "Michelin Green Star",
+      "James Beard Foundation Outstanding Restaurant",
+      "Wine Spectator Grand Award"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "21:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "350"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "SingleThread",
+    "image": "https://top50restaurantsincalifornia.online/images/singlethread.jpg",
+    "description": "SingleThread represents a singular vision: chef Kyle Connaughton's farm-to-table philosophy realized in Wine Country. The restaurant is intimately connected to its own farm, where ingredients are cultivated specifically for the menu. Nightly menus reflect seasonal availability and culinary creativity, with the restaurant's refusal to follow trends underscoring its principled approach.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "131 North Street",
+      "addressLocality": "Healdsburg",
+      "addressRegion": "CA",
+      "postalCode": "95448",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-723-4646",
+    "url": "https://www.singlethreadrestaurants.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Farm-to-Table"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": 1856,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "SingleThread proves that deep connection to a place and its resources creates unparalleled cuisine. Kyle Connaughton's relentless dedication to quality and sustainability, combined with technical mastery, produces transformative meals."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "Michelin Green Star",
+      "James Beard Foundation Outstanding Chef",
+      "James Beard Foundation Outstanding Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "opens": "17:00",
+        "closes": "21:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "320"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Atelier Crenn",
+    "image": "https://top50restaurantsincalifornia.online/images/atelier-crenn.jpg",
+    "description": "Atelier Crenn is the flagship restaurant of chef Dominique Crenn, a culinary visionary who pioneered the idea of restaurants as artistic expression. The cuisine is pure imagination\u2014modern, playful, and technically brilliant. The dining room itself is a work of art, with an ever-changing installation aesthetic that reflects Crenn's passion for visual creativity.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3127 Fillmore Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94123",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-440-0460",
+    "url": "https://www.ateliercrenn.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "French",
+      "Contemporary",
+      "Artistic"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 2143,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Atelier Crenn transcends traditional dining. Dominique Crenn's artistic vision and technical prowess create experiences that are equal parts cuisine and art installation. Meals here are conversations with a visionary chef."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "San Francisco Chronicle Best Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "320"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Benu",
+    "image": "https://top50restaurantsincalifornia.online/images/benu.jpg",
+    "description": "Chef Corey Lee's Benu is an exercise in culinary precision and intellectual rigor. The menu is a constantly evolving exploration of ingredients, techniques, and ideas. The kitchen's approach combines technical mastery with ingredient obsession, often revealing the extraordinary in the mundane.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "22 Hawthorne Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94105",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-685-4860",
+    "url": "https://www.benusf.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Contemporary",
+      "American",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 1923,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Benu's intellectual approach to cuisine, combined with Corey Lee's technical mastery, creates meals that challenge and delight. Every element is carefully considered, every dish purposeful."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Best Restaurant in San Francisco"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "310"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Quince",
+    "image": "https://top50restaurantsincalifornia.online/images/quince.jpg",
+    "description": "Quince showcases chef Evan Funke's Italian heritage and his mastery of pasta. While the cuisine is rooted in Italian tradition, Funke's interpretations are contemporary and creative. Hand-made pastas are the heart of the experience, each crafted with meticulous attention to shape and sauce pairing.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "470 Pacific Avenue",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94133",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-775-8500",
+    "url": "https://www.quincerestaurant.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Italian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 2067,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Quince's reverence for Italian tradition, expressed through Evan Funke's innovative pastas, delivers authentic cuisine elevated to the finest level. Each hand-made pasta is a revelation."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Michelin Green Star"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "300"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Californios",
+    "image": "https://top50restaurantsincalifornia.online/images/californios.jpg",
+    "description": "Californios is a celebration of Mexican gastronomy at its highest level. Chef Vince Chavez brings indigenous Mexican traditions and contemporary technique together to create cuisine that is both reverent and innovative. The intimate, chef-counter format allows diners to witness the artistry firsthand.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "355 11th Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94103",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-757-0994",
+    "url": "https://www.californiosf.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Mexican",
+      "Indigenous",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 1634,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Californios elevates Mexican cuisine to the finest level through Vince Chavez's deep knowledge of indigenous traditions and contemporary technique. A transformative dining experience."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Best Mexican Restaurant in America"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:30",
+        "closes": "22:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "290"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Saison",
+    "image": "https://top50restaurantsincalifornia.online/images/saison.jpg",
+    "description": "Saison represents chef Joshua Skenes' interpretation of California cuisine through a lens of technical mastery and theatrical presentation. The intimate setting and counter-style service place diners at the center of culinary action. The menu changes constantly, responding to ingredient availability and culinary inspiration.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "178 Townsend Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94107",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-828-7990",
+    "url": "https://www.saisonsf.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Molecular"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1789,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Saison's theatrical approach and Joshua Skenes' technical brilliance create meals that are both artistic and delicious. The constantly evolving menu keeps the experience fresh."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "San Francisco Chronicle Best Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "300"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "State Bird Provisions",
+    "image": "https://top50restaurantsincalifornia.online/images/state-bird-provisions.jpg",
+    "description": "State Bird Provisions defies categorization with its innovative dim-sum style service of chef Stuart Brioza's creative small plates. The theatrical presentation and surprising flavor combinations create a dining experience that is equal parts entertainment and culinary excellence.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1529 Fillmore Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94115",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-795-1272",
+    "url": "https://www.statebirdsf.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Contemporary",
+      "American",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 2456,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "State Bird Provisions proves that innovation and fun are not mutually exclusive. Stuart Brioza's dim-sum approach to contemporary cuisine creates an unforgettable, playful dining experience."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "James Beard Foundation Rising Star Chef",
+      "Michelin Bib Gourmand"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "95"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Providence",
+    "image": "https://top50restaurantsincalifornia.online/images/providence.jpg",
+    "description": "Providence stands as Los Angeles' most prestigious seafood restaurant, where chef Michael Cimarusti's reverence for pristine ingredients meets classical French technique. The elegant room and impeccable service complement cuisine that celebrates the Pacific's finest offerings.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5955 Melrose Avenue",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90038",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-323-460-4170",
+    "url": "https://www.providencela.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Seafood",
+      "French",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 2234,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Providence delivers uncompromising seafood excellence. Michael Cimarusti's expertise and commitment to quality make this Los Angeles's finest seafood destination."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Best Seafood Restaurant in Los Angeles"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "275"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "n/naka",
+    "image": "https://top50restaurantsincalifornia.online/images/n-naka.jpg",
+    "description": "n/naka brings refined Japanese kaiseki to Los Angeles with chef Atsushi Nakahara's meticulous approach to seasonal cuisine. The intimate counter setting emphasizes the personal connection between chef and diner, while the evolving menu reflects the finest available ingredients.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3455 Overland Avenue",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90034",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-310-836-6252",
+    "url": "https://www.n-naka.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Japanese",
+      "Kaiseki"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 1567,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "n/naka delivers kaiseki excellence, with Atsushi Nakahara's meticulous technique and deep ingredient knowledge creating meals of profound refinement and beauty."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Michelin Green Star"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "280"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Kato",
+    "image": "https://top50restaurantsincalifornia.online/images/kato.jpg",
+    "description": "Kato showcases chef Evan Nakano's innovative Japanese-inspired cuisine with California sensibilities. The intimate chef counter format emphasizes the chef's expertise and allows for personalized interactions. The menu balances tradition with bold contemporary creativity.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1714 North Cahuenga Boulevard",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90028",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-323-466-5286",
+    "url": "https://www.katola.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Japanese",
+      "Californian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1423,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Kato brilliantly fuses Japanese tradition with California innovation. Evan Nakano's creativity and technical skill create memorable, surprising dishes in an intimate setting."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "James Beard Foundation Rising Star Chef"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "150"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Osteria Mozza",
+    "image": "https://top50restaurantsincalifornia.online/images/osteria-mozza.jpg",
+    "description": "Osteria Mozza represents chef Nancy Silverton's love of Italian cuisine and impeccable ingredient sourcing. The restaurant's exceptional handmade pastas and wood-fired preparations showcase Italian traditions executed with California precision. The vibrant dining room captures the energy of contemporary Italian dining.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6602 Melrose Avenue",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90038",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-323-297-0100",
+    "url": "https://www.osteriamozza.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Italian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 3124,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Osteria Mozza celebrates Italian cuisine with Nancy Silverton's expertise in handmade pasta and ingredient quality. The vibrant atmosphere and excellent wine list make it a Los Angeles institution."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Bib Gourmand",
+      "Los Angeles Times Best Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "85"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "R\u00e9publique",
+    "image": "https://top50restaurantsincalifornia.online/images/republique.jpg",
+    "description": "R\u00e9publique combines excellence in French pastries with refined dining. Chef Walter Manzke's cuisine emphasizes classical French techniques with California ingredients. The beautiful space evokes Parisian elegance while remaining approachable and welcoming.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "624 South La Brea Avenue",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90036",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-310-362-6115",
+    "url": "https://www.republiquebaking.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "French",
+      "Californian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": 2867,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "R\u00e9publique delivers French excellence from pastry to dining. The combination of world-class baking and refined cuisine makes it one of Los Angeles's most important restaurants."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Bib Gourmand",
+      "Best Pastries in Los Angeles"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "06:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "06:30",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "75"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Bestia",
+    "image": "https://top50restaurantsincalifornia.online/images/bestia.jpg",
+    "description": "Bestia champions Italian nose-to-tail cooking with chef Evan Funke's reverence for traditional preparations and bold flavors. The industrial-chic dining room and lively atmosphere capture the raw energy of contemporary Italian dining. Housemade charcuterie and pastas are highlights.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2121 East Los Angeles Street",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90033",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-323-806-2600",
+    "url": "https://www.bestia.la",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Italian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 4123,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Bestia captures the spirit of Italian dining with skill and confidence. Evan Funke's housemade pastas and nose-to-tail approach make it one of Los Angeles's most exciting restaurants."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Bib Gourmand",
+      "Best Italian Restaurant Los Angeles"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "18:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:30",
+        "closes": "23:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "22:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "80"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Holbox",
+    "image": "https://top50restaurantsincalifornia.online/images/holbox.jpg",
+    "description": "Holbox brings Yucat\u00e1n-inspired seafood cuisine to Los Angeles with chef Gabriela Camara's sophisticated approach. The intimate setting and focus on pristine seafood preparations showcase the flavors and traditions of Mexico's Caribbean coast.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1425 East 4th Street",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90033",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-323-265-7070",
+    "url": "https://www.holboxla.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Mexican",
+      "Seafood",
+      "Yucat\u00e1n"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1234,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Holbox delivers refined Yucat\u00e1n cuisine with Gabriela Camara's focus on exceptional seafood and traditional techniques. A sophisticated window into Mexico's coastal traditions."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Best Mexican Seafood Restaurant Los Angeles"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "90"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Gwen",
+    "image": "https://top50restaurantsincalifornia.online/images/gwen.jpg",
+    "description": "Gwen represents chef Curtis Stone's refined approach to contemporary California cuisine. The elegant dining room and meticulous service complement cuisine that emphasizes local ingredients and seasonal availability. The wine program is particularly distinguished.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6500 Wilshire Boulevard",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90048",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-323-930-5944",
+    "url": "https://www.gwenla.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1876,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Gwen delivers refined California cuisine with Curtis Stone's emphasis on ingredient quality and seasonal cooking. The elegant atmosphere and distinguished wine program enhance the experience."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "James Beard Foundation Best Restaurant Design"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "95"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Addison",
+    "image": "https://top50restaurantsincalifornia.online/images/addison.jpg",
+    "description": "Addison brings Michelin-starred French cuisine to San Diego with chef William Bradley's meticulous approach. The elegant dining room overlooks the city, while the kitchen focuses on classical French techniques executed with precision and local California ingredients.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5200 Grand Del Mar Court",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92130",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-858-314-1900",
+    "url": "https://www.addisondelmar.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "French",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1543,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Addison brings world-class French cuisine to San Diego. William Bradley's technical mastery and refined sensibility make it San Diego's finest dining destination."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Best Restaurant in San Diego"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "21:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "285"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Jeune et Jolie",
+    "image": "https://top50restaurantsincalifornia.online/images/jeune-et-jolie.jpg",
+    "description": "Jeune et Jolie brings contemporary French dining to Malibu with chef Raphael Francois's refined sensibility. The intimate setting and meticulous technique create sophisticated meals that reflect California's seasonal abundance.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "13355 Fiji Way",
+      "addressLocality": "Marina Del Rey",
+      "addressRegion": "CA",
+      "postalCode": "90292",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-310-823-5396",
+    "url": "https://www.jeunejolie.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "French",
+      "Contemporary",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 987,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Jeune et Jolie delivers refined French cuisine with contemporary sensibility. Raphael Francois's technical skill and creative vision make it one of Southern California's most important restaurants."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "Best French Restaurant Southern California"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "155"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Herb & Wood",
+    "image": "https://top50restaurantsincalifornia.online/images/herb-wood.jpg",
+    "description": "Herb & Wood showcases chef Brian Malarkey's mastery of live-fire cooking and California ingredients. The wood-fired kitchen and rustic-elegant dining room create an atmosphere that celebrates technique and ingredient quality.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2165 India Street",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92101",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-619-955-8495",
+    "url": "https://www.herbandwood.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Fire-Roasted"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1654,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Herb & Wood celebrates the art of fire-cooking with Brian Malarkey's expertise and vision. The wood-fired kitchen creates unforgettable dishes that showcase California ingredients."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Bib Gourmand",
+      "James Beard Foundation Best Chef"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "85"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Valle",
+    "image": "https://top50restaurantsincalifornia.online/images/valle.jpg",
+    "description": "Valle celebrates refined coastal cuisine with chef Hadley Schmitz's focus on sustainable seafood and seasonal vegetables. The intimate dining room and thoughtful service emphasize the restaurant's commitment to ingredient-driven cooking.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7777 Fay Avenue",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92037",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-619-228-9561",
+    "url": "https://www.vallesa.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Seafood",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1123,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Valle delivers refined coastal cuisine with Hadley Schmitz's commitment to sustainability and ingredient quality. A thoughtful, delicious exploration of California's culinary landscape."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "Michelin Green Star",
+      "Best Sustainable Restaurant San Diego"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "145"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Aubergine",
+    "image": "https://top50restaurantsincalifornia.online/images/aubergine.jpg",
+    "description": "Aubergine showcases chef Justin Cogley's refined approach to contemporary California cuisine. Located in the stunning Carmel area, the restaurant emphasizes local ingredients and impeccable technique in an intimate, elegant setting.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ocean Avenue at Monte Verde Street",
+      "addressLocality": "Carmel-by-the-Sea",
+      "addressRegion": "CA",
+      "postalCode": "93921",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-831-624-8578",
+    "url": "https://www.auberginecarmel.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "French-influenced"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 1345,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Aubergine delivers refined California cuisine in the heart of the Big Sur region. Justin Cogley's technical mastery and attention to local ingredients create memorable meals."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Best Restaurant on Central Coast"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:30",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "21:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "265"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Harbor House Inn",
+    "image": "https://top50restaurantsincalifornia.online/images/harbor-house.jpg",
+    "description": "Harbor House Inn offers a unique dining experience on the rugged Mendocino Coast. Chef Mathew Kammerer's refined cuisine celebrates the region's local ingredients and coastal beauty. The intimate setting and multi-course experience emphasize hospitality and community.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5600 South Highway 1",
+      "addressLocality": "Elk",
+      "addressRegion": "CA",
+      "postalCode": "95432",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-877-3203",
+    "url": "https://www.harborhouseinn.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Coastal"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 876,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Harbor House Inn offers a rare culinary experience: world-class cuisine on an isolated coastal bluff. Mathew Kammerer's deep connection to place creates unforgettable meals."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "Michelin Green Star",
+      "Best Destination Restaurant Northern California"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "18:30",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:30",
+        "closes": "20:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "195"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Bell's",
+    "image": "https://top50restaurantsincalifornia.online/images/bells.jpg",
+    "description": "Bell's represents chef Evan Goldstein's deep commitment to Wine Country dining and exceptional wine pairing. The intimate setting and creative cuisine celebrate local ingredients and showcase an extraordinary wine collection.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9000 Sonoma Highway",
+      "addressLocality": "Kenwood",
+      "addressRegion": "CA",
+      "postalCode": "95452",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-833-1919",
+    "url": "https://www.bellsrestaurant.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Wine-paired"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1234,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Bell's celebrates Wine Country dining with Evan Goldstein's creative cuisine and legendary wine expertise. The wine pairing experience is unsurpassed."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Best Wine List Sonoma County",
+      "Wine Spectator Award"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Friday",
+        "opens": "17:00",
+        "closes": "22:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "125"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Chez Panisse",
+    "image": "https://top50restaurantsincalifornia.online/images/chez-panisse.jpg",
+    "description": "Chez Panisse is the birthplace of California cuisine and the farm-to-table movement. Chef Alice Waters' visionary restaurant has shaped American cooking for nearly five decades. The commitment to local, seasonal, organic ingredients remains unwavering.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1517 Shattuck Avenue",
+      "addressLocality": "Berkeley",
+      "addressRegion": "CA",
+      "postalCode": "94709",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-510-548-5525",
+    "url": "https://www.chezpanisse.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Farm-to-Table",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 3456,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Chez Panisse remains the spiritual heart of California cuisine. Alice Waters' decades-long commitment to local, organic, seasonal cooking continues to inspire and define culinary excellence."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Green Star",
+      "James Beard Foundation Lifetime Achievement Award",
+      "National Culinary Heritage"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "95"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Commis",
+    "image": "https://top50restaurantsincalifornia.online/images/commis.jpg",
+    "description": "Commis showcases chef James Syhabout's intellectual approach to contemporary cuisine. The precise, minimalist plating belies the complexity and flavor within each dish. The intimate counter setting emphasizes the chef's craft.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3859 Piedmont Avenue",
+      "addressLocality": "Oakland",
+      "addressRegion": "CA",
+      "postalCode": "94610",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-510-653-3902",
+    "url": "https://www.commisrestaurant.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Contemporary",
+      "American",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1876,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Commis delivers intellectually rigorous cuisine with James Syhabout's precise technique and innovative vision. A transformative counter-dining experience."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "James Beard Foundation Best Chef",
+      "Best Restaurant Oakland"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "135"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Birdsong",
+    "image": "https://top50restaurantsincalifornia.online/images/birdsong.jpg",
+    "description": "Birdsong is chef Nick Harris's intimate culinary experience showcasing creative, refined cuisine. The open kitchen and counter seating emphasize the chef's artistry and personalized service.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "320 Fifth Avenue",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92101",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-619-325-3779",
+    "url": "https://www.birdsongsd.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Contemporary",
+      "Californian",
+      "American"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1123,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Birdsong delivers refined cuisine with Nick Harris's creative vision and technical mastery. The intimate counter experience creates memorable interactions with the chef."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "James Beard Foundation Rising Star Chef"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "145"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Lazy Bear",
+    "image": "https://top50restaurantsincalifornia.online/images/lazy-bear.jpg",
+    "description": "Lazy Bear is chef Daniel Kelley's celebration of seasonal California ingredients and creative technique. The intimate kitchen-dining experience emphasizes playfulness, ingredient quality, and the joy of cooking.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3416 19th Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94110",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-474-5570",
+    "url": "https://www.lazybearsf.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Playful"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1654,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Lazy Bear captures the joy and creativity of contemporary California cooking. Daniel Kelley's playful approach to seasonal ingredients creates unforgettable meals."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "James Beard Foundation Rising Star Chef"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "18:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "120"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Mourad",
+    "image": "https://top50restaurantsincalifornia.online/images/mourad.jpg",
+    "description": "Mourad celebrates North African cuisine with chef Mourad Lahlou's innovative approach. The vibrant dishes and spice-forward cooking create an exciting, contemporary expression of Moroccan and broader Mediterranean traditions.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "140 New Montgomery Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94105",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-660-2500",
+    "url": "https://www.mouradrestaurant.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Moroccan",
+      "North African",
+      "Mediterranean"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1345,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Mourad brings North African cuisine to fine dining with Mourad Lahlou's refined technique and innovative spirit. Vibrant, delicious, and utterly original."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "James Beard Foundation Best Chef",
+      "Best North African Restaurant America"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "22:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "110"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Kin Khao",
+    "image": "https://top50restaurantsincalifornia.online/images/kin-khao.jpg",
+    "description": "Kin Khao celebrates the regional cuisines of Thailand with chef Pim Techamuanvivit's sophisticated approach. The refined, flavorful dishes showcase Thailand's culinary diversity while maintaining authentic technique.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "55 Cyril Magnin Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94102",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-362-7456",
+    "url": "https://www.kinkhao.com",
+    "priceRange": "$$",
+    "servesCuisine": [
+      "Thai",
+      "Southeast Asian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 2123,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Kin Khao elevates Thai cuisine to fine dining. Pim Techamuanvivit's refined approach and deep knowledge of regional traditions create exceptional meals."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "James Beard Foundation Best Chef",
+      "Best Thai Restaurant America"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "21:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "75"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Gary Danko",
+    "image": "https://top50restaurantsincalifornia.online/images/gary-danko.jpg",
+    "description": "Gary Danko represents chef Gary Danko's elegant, refined approach to contemporary American cuisine. The personalized multi-course menu and impeccable service create one of San Francisco's most gracious dining experiences.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "800 North Point Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94109",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-749-2060",
+    "url": "https://www.garydanko.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Contemporary",
+      "American",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 4567,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Gary Danko remains a beacon of refined hospitality and exquisite cuisine. The personalized menu experience with elegant presentations sets the standard for American fine dining."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "James Beard Foundation Outstanding Restaurant",
+      "San Francisco Chronicle Best Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "135"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Angler",
+    "image": "https://top50restaurantsincalifornia.online/images/angler.jpg",
+    "description": "Angler celebrates seafood excellence with chef Jad Syoufi's refined approach. Located waterfront with stunning views, the restaurant showcases pristine fish preparations that honor the California coast.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "450 J Street",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92101",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-619-234-9898",
+    "url": "https://www.anglersd.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Seafood",
+      "Contemporary",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1876,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Angler delivers excellent seafood with stunning waterfront views. Jad Syoufi's refined technique showcases pristine fish with California sensibility."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Best Seafood Restaurant San Diego"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "95"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Rich Table",
+    "image": "https://top50restaurantsincalifornia.online/images/rich-table.jpg",
+    "description": "Rich Table showcases chefs Evan Funke and Sarah Rich's collaborative approach to contemporary Californian cuisine. The playful, creative dishes and warm atmosphere celebrate the joy of cooking and eating together.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "199 Valencia Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94103",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-355-9085",
+    "url": "https://www.richtablesf.com",
+    "priceRange": "$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "American"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": 2456,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Rich Table celebrates the collaborative spirit and creativity of contemporary San Francisco cooking. The playful, delicious dishes and genuine warmth make it a beloved institution."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "James Beard Foundation Best New Restaurant",
+      "Michelin Bib Gourmand"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "65"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Cotogna",
+    "image": "https://top50restaurantsincalifornia.online/images/cotogna.jpg",
+    "description": "Cotogna celebrates Italian cuisine with chef Michael Tusk's refined approach to traditional preparations. Wood-fired cooking and housemade pastas showcase impeccable ingredient quality and technical skill.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "490 Pacific Avenue",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94133",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-775-8508",
+    "url": "https://www.cotognasf.com",
+    "priceRange": "$$",
+    "servesCuisine": [
+      "Italian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": 1987,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Cotogna delivers Italian excellence with Michael Tusk's reverence for tradition and quality ingredients. The wood-fired kitchen and housemade pastas exemplify contemporary Italian cooking."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "James Beard Foundation Outstanding Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "85"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Acquerello",
+    "image": "https://top50restaurantsincalifornia.online/images/acquerello.jpg",
+    "description": "Acquerello brings refined Italian cuisine to San Francisco with chef Giacomo Gallina's sophisticated approach. The intimate setting and multi-course tasting menu showcase seasonal Italian ingredients with California influences.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "430 Mason Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94102",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-989-0300",
+    "url": "https://www.acquerello.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Italian",
+      "Contemporary",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 1654,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Acquerello delivers refined Italian cuisine with Giacomo Gallina's technical mastery and deep ingredient knowledge. A sophisticated, memorable tasting menu experience."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Michelin Green Star"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "21:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "310"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Manresa",
+    "image": "https://top50restaurantsincalifornia.online/images/manresa.jpg",
+    "description": "Manresa represents chef David Kinch's pioneering approach to ingredient-driven cuisine. The intimate restaurant and meticulously crafted tasting menu reflect Kinch's obsession with sourcing, technique, and the pursuit of flavor perfection.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "320 Village Lane",
+      "addressLocality": "Los Altos",
+      "addressRegion": "CA",
+      "postalCode": "94022",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-650-941-5474",
+    "url": "https://www.manresarestaurant.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Innovative"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 1234,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Manresa represents David Kinch's relentless pursuit of culinary excellence. His obsession with sourcing, technique, and flavor creates meals of profound creativity and satisfaction."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Michelin Green Star",
+      "Best Restaurant Silicon Valley"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "21:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "295"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Sushi Shin",
+    "image": "https://top50restaurantsincalifornia.online/images/sushi-shin.jpg",
+    "description": "Sushi Shin showcases chef Shinichi Suzuki's traditional Japanese sushi artistry. The intimate counter and omakase experience emphasize the chef's mastery of fish selection and nigiri preparation.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Japantown, San Jose",
+      "addressLocality": "San Jose",
+      "addressRegion": "CA",
+      "postalCode": "95110",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-408-998-9779",
+    "url": "https://www.sushishinsjcc.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Japanese",
+      "Sushi"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 876,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Sushi Shin delivers traditional Japanese sushi excellence. Shinichi Suzuki's expertise in fish selection and precise preparation make it a Bay Area institution."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Best Sushi Silicon Valley"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "21:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "120"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Sushi Ginza Onodera",
+    "image": "https://top50restaurantsincalifornia.online/images/sushi-ginza.jpg",
+    "description": "Sushi Ginza Onodera brings Tokyo sushi excellence to San Francisco with chef Eiji Onodera's refined technique. The exclusive counter experience showcases premium fish and traditional omakase preparation.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3337 Steiner Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94123",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-379-1135",
+    "url": "https://www.onodera.com",
+    "priceRange": "$$$$",
+    "servesCuisine": [
+      "Japanese",
+      "Sushi",
+      "Omakase"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 743,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Sushi Ginza Onodera delivers Tokyo-level sushi excellence. Eiji Onodera's expertise and refined technique create an unforgettable omakase experience."
+      }
+    ],
+    "award": [
+      "Three Michelin Stars",
+      "James Beard Foundation Best Chef",
+      "Most Exclusive Sushi San Francisco"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:00",
+        "closes": "20:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "20:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "380"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Kenzo",
+    "image": "https://top50restaurantsincalifornia.online/images/kenzo-napa.jpg",
+    "description": "Kenzo brings Japanese kaiseki to Wine Country, offering chef Kenzo Tsujimoto's refined approach to seasonal Japanese cuisine. Intimate counter seating, meticulous technique, and carefully sourced ingredients create a meditative, multi-course experience.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1314 McKinstry Street",
+      "addressLocality": "Napa",
+      "addressRegion": "CA",
+      "postalCode": "94559",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-252-1555",
+    "url": "https://kenzocuisine.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Japanese",
+      "Kaiseki"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": 1205,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Kenzo represents the pinnacle of Japanese fine dining in California. Chef Tsujimoto's seasonal approach, impeccable sourcing, and technical precision create dishes of profound refinement."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "Michelin Green Star",
+      "James Beard Foundation Outstanding Chef"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "21:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "280"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Press Restaurant",
+    "image": "https://top50restaurantsincalifornia.online/images/press-restaurant.jpg",
+    "description": "Press Restaurant celebrates Wine Country cuisine with chef Philippe Bise's focus on exceptional ingredients and wine pairing. The menu emphasizes locally sourced proteins and seasonal vegetables prepared with refinement.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "587 St. Helena Highway",
+      "addressLocality": "St. Helena",
+      "addressRegion": "CA",
+      "postalCode": "94574",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-967-0550",
+    "url": "https://www.pressrestaurant.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Wine-paired"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1432,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Press delivers Wine Country excellence with Philippe Bise's refined approach to seasonal cuisine and exceptional wine pairing. A sophisticated Napa Valley experience."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Best Wine Country Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:30",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "20:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "105"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "La Toque",
+    "image": "https://top50restaurantsincalifornia.online/images/la-toque.jpg",
+    "description": "La Toque represents chef Ken Frank's refined approach to contemporary French cuisine in Wine Country. The intimate dining room and multi-course tasting menu showcase seasonal California ingredients prepared with classical technique.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1314 McKinstry Street",
+      "addressLocality": "Rutherford",
+      "addressRegion": "CA",
+      "postalCode": "94573",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-963-9770",
+    "url": "https://www.latoque.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "French",
+      "Contemporary",
+      "Californian"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1123,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "La Toque delivers refined French cuisine with Ken Frank's technical mastery and California sensibility. An elegant Napa Valley fine dining destination."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "James Beard Foundation Outstanding Chef",
+      "Best French Restaurant Napa Valley"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "21:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "145"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Farmhouse Inn Restaurant",
+    "image": "https://top50restaurantsincalifornia.online/images/farmhouse-inn.jpg",
+    "description": "Farmhouse Inn Restaurant showcases chef Kyle Connaughton's seasonal approach to Wine Country dining. The refined menu and excellent wine program emphasize local sourcing and sustainable practices.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7871 River Road",
+      "addressLocality": "Forestville",
+      "addressRegion": "CA",
+      "postalCode": "95436",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-707-887-3300",
+    "url": "https://www.thefarmhouseinn.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Farm-to-Table",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 1345,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Farmhouse Inn delivers Wine Country excellence with Kyle Connaughton's commitment to seasonal ingredients and sustainability. A sophisticated, refined experience."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "Michelin Green Star",
+      "Best Farm-to-Table Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "21:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "20:30"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "155"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Selby's",
+    "image": "https://top50restaurantsincalifornia.online/images/selbys.jpg",
+    "description": "Selby's celebrates Bay Area dining with chef Dominic Crenn's creative approach. The refined cuisine and elegant setting emphasize local ingredients and contemporary technique.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1111 Bridgeway",
+      "addressLocality": "Sausalito",
+      "addressRegion": "CA",
+      "postalCode": "94965",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-332-0577",
+    "url": "https://www.selbysrestaurant.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "French-influenced"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 987,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Selby's delivers refined Bay Area cuisine with creative sensibility and elegant presentation. A sophisticated waterfront dining experience."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Best Restaurant Marin County"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "21:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "98"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Nobu Malibu",
+    "image": "https://top50restaurantsincalifornia.online/images/nobu-malibu.jpg",
+    "description": "Nobu Malibu represents chef Nobu Matsuhisa's fusion of Japanese and Peruvian-inspired cuisine, delivered with impeccable seafood expertise. The dramatic oceanfront setting and sophisticated service complement cuisine that is innovative yet refined.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "22706 Pacific Coast Highway",
+      "addressLocality": "Malibu",
+      "addressRegion": "CA",
+      "postalCode": "90265",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-310-317-9140",
+    "url": "https://www.noburestaurants.com/malibu",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Japanese",
+      "Peruvian",
+      "Fusion"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": 3421,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Nobu Malibu succeeds by blending extraordinary seafood, innovative technique, and perhaps the Pacific Coast's most stunning dining view. Service is impeccable."
+      }
+    ],
+    "award": [
+      "Two Michelin Stars",
+      "James Beard Foundation Best Chef",
+      "Best Restaurant Malibu"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "200"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Water Grill",
+    "image": "https://top50restaurantsincalifornia.online/images/water-grill.jpg",
+    "description": "Water Grill celebrates the California coast with exceptional seafood preparations. Chef Debbie Gold's refined approach to grilling and impeccable fish sourcing create sophisticated coastal cuisine.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1988 Kettner Boulevard",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92101",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-619-232-4272",
+    "url": "https://www.watergrill.com",
+    "priceRange": "$$",
+    "servesCuisine": [
+      "Seafood",
+      "Californian",
+      "Contemporary"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 2134,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Water Grill delivers excellent California seafood with Debbie Gold's expertise in grilling and impeccable sourcing. A reliable San Diego dining destination."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Bib Gourmand",
+      "Best Seafood San Diego"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "85"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Mister A's",
+    "image": "https://top50restaurantsincalifornia.online/images/mister-as.jpg",
+    "description": "Mister A's celebrates contemporary California cuisine with spectacular city and coastal views. Chef/owner Carl Schroeder's refined approach to seasonal cooking creates elegant meals in a stunning setting.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2550 Fifth Avenue",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92103",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-619-239-1377",
+    "url": "https://www.mistera.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "American"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": 1876,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Mister A's delivers refined California cuisine with one of San Diego's most spectacular views. Carl Schroeder's seasonal approach creates elegant, memorable meals."
+      }
+    ],
+    "award": [
+      "Best Restaurant with a View San Diego",
+      "Michelin Bib Gourmand"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "95"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Campfire",
+    "image": "https://top50restaurantsincalifornia.online/images/campfire.jpg",
+    "description": "Campfire celebrates chef Minh Phan's mastery of wood-fire cooking. The innovative menu and artistic plating showcase California ingredients prepared over live flames, creating visually stunning and delicious cuisine.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2640 Carlsbad Village Drive",
+      "addressLocality": "Carlsbad",
+      "addressRegion": "CA",
+      "postalCode": "92008",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-760-704-4221",
+    "url": "https://www.campfirecarlsbad.com",
+    "priceRange": "$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Fire-Roasted"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 1654,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Campfire delivers innovative fire-cooked cuisine with Minh Phan's artistic vision. The wood-fire kitchen creates visually stunning and delicious California fare."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Bib Gourmand",
+      "Best Fire-Roasted Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "70"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Foreign Cinema",
+    "image": "https://top50restaurantsincalifornia.online/images/foreign-cinema.jpg",
+    "description": "Foreign Cinema is a San Francisco institution that combines cinema, art, and contemporary California cuisine. Chef-owner John Breslin's approachable yet refined cooking celebrates seasonal ingredients in a lively, artistic atmosphere.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2534 Mission Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94110",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-648-7600",
+    "url": "https://www.foreigncinema.com",
+    "priceRange": "$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "American"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": 3245,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Foreign Cinema captures the creative energy of San Francisco, combining cinema, art, and excellent contemporary cuisine. A unique, memorable experience."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "Michelin Bib Gourmand",
+      "Best Experiential Restaurant San Francisco"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "17:30",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "24:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "65"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "Zuni Cafe",
+    "image": "https://top50restaurantsincalifornia.online/images/zuni-cafe.jpg",
+    "description": "Since 1987, Zuni Cafe has anchored San Francisco's culinary identity with chef Judy Rodgers' revolutionary approach to California cuisine. The iconic roast chicken with bread salad remains legendary, complemented by impeccably sourced fish and vegetable preparations.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1658 Market Street",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94102",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-552-2522",
+    "url": "https://www.zunicafe.com",
+    "priceRange": "$$",
+    "servesCuisine": [
+      "Californian",
+      "Mediterranean",
+      "American"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 4892,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Zuni Cafe represents the best of what California cuisine can achieve: ingredient-driven, technically brilliant, yet completely unpretentious. An institution that defined a generation."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "James Beard Foundation Outstanding Restaurant",
+      "San Francisco Culinary Heritage Award"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "11:30",
+        "closes": "23:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "11:30",
+        "closes": "24:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Sunday",
+        "opens": "11:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "65"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "The Marine Room",
+    "image": "https://top50restaurantsincalifornia.online/images/marine-room.jpg",
+    "description": "The Marine Room offers refined contemporary cuisine with exceptional ocean views. Chef Debbie Gold's seasonal approach and impeccable seafood sourcing create elegant meals right on the La Jolla Shores beach.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2000 Spindrift Drive",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92037",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-858-459-7222",
+    "url": "https://www.marineroomla.com",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Californian",
+      "Contemporary",
+      "Seafood"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": 2567,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "The Marine Room delivers refined cuisine with one of California's most magical ocean settings. Debbie Gold's seasonal approach and seafood expertise create memorable meals."
+      }
+    ],
+    "award": [
+      "One Michelin Star",
+      "San Diego Magazine Best Restaurant"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:30",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "105"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "name": "House of Prime Rib",
+    "image": "https://top50restaurantsincalifornia.online/images/house-of-prime-rib.jpg",
+    "description": "A San Francisco institution since 1949, House of Prime Rib represents the art of the classic steakhouse. The kitchen-side carving of magnificent beef roasts, accompanied by perfect Yorkshire pudding and vegetables, embodies timeless hospitality and uncompromising quality.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1906 Van Ness Avenue",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94109",
+      "addressCountry": "US"
+    },
+    "telephone": "+1-415-885-4605",
+    "url": "https://www.houseofprimerib.net",
+    "priceRange": "$$$",
+    "servesCuisine": [
+      "Steakhouse",
+      "American"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": 2156,
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "California Culinary Guide"
+        },
+        "datePublished": "2026-06-24",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "House of Prime Rib proves that consistency and tradition endure. The theatrical carving ritual, magnificent beef, and impeccable service represent the best of San Francisco hospitality."
+      }
+    ],
+    "award": [
+      "San Francisco Historic Landmark",
+      "Michelin Bib Gourmand",
+      "San Francisco Chronicle Best Steakhouse"
+    ],
+    "acceptsReservations": true,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "opens": "17:00",
+        "closes": "22:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "17:00",
+        "closes": "23:00"
+      }
+    ],
+    "makesOffer": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "95"
+    }
+  }
+]
